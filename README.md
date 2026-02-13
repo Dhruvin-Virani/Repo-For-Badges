@@ -1,3 +1,3 @@
 # Repo-For-Badges
 
-## Creating seperate PR and then merge it to main
+## Creating seperate PR and then merge it to main 2
